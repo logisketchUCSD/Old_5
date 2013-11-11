@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageAligner", "ImageAligner.csproj", "{7EB7BDC8-0543-40E8-B4B6-CEC4A8B17B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\..\Util\Utilities\Utilities\Utilities.csproj", "{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sketch", "..\..\Util\Sketch\Sketch.csproj", "{84AE0BC9-B169-4B44-B320-4825D027BD2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB7BDC8-0543-40E8-B4B6-CEC4A8B17B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB7BDC8-0543-40E8-B4B6-CEC4A8B17B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB7BDC8-0543-40E8-B4B6-CEC4A8B17B40}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7EB7BDC8-0543-40E8-B4B6-CEC4A8B17B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB7BDC8-0543-40E8-B4B6-CEC4A8B17B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB7BDC8-0543-40E8-B4B6-CEC4A8B17B40}.Release|x64.ActiveCfg = Release|Any CPU
+		{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}.Debug|x64.ActiveCfg = Debug|x64
+		{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}.Debug|x64.Build.0 = Debug|x64
+		{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}.Release|x64.ActiveCfg = Release|x64
+		{7C9A72A3-E426-4312-9F31-AE340B0EF4C8}.Release|x64.Build.0 = Release|x64
+		{84AE0BC9-B169-4B44-B320-4825D027BD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AE0BC9-B169-4B44-B320-4825D027BD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AE0BC9-B169-4B44-B320-4825D027BD2C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{84AE0BC9-B169-4B44-B320-4825D027BD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AE0BC9-B169-4B44-B320-4825D027BD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AE0BC9-B169-4B44-B320-4825D027BD2C}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
